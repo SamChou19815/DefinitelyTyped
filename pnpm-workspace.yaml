@@ -1,3 +1,5 @@
 packages:
   - 'scripts'
+  - 'conformance-tool'
+  - 'flow-api-translator'
   - 'types/**'
